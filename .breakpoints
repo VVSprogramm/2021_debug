@@ -1,0 +1,40 @@
+{
+  "files": {
+    "01.11/galvenais.py": [
+      {
+        "id": "168c4f34-c70b-4adc-a648-3eb4252cacab",
+        "line": 3,
+        "version": 35,
+        "index": 14
+      }
+    ],
+    "main.py": [
+      {
+        "id": "04f1dbbc-5abe-456b-851b-303536bbff7c",
+        "line": 33,
+        "version": 117,
+        "index": 289
+      }
+    ],
+    "try.py": [
+      {
+        "id": "eb7e0425-86d1-469e-a292-21ed3eb23ea9",
+        "line": 3,
+        "version": 0,
+        "index": 13
+      },
+      {
+        "id": "d6338ec7-16a6-4a05-a36f-c8c921298cc5",
+        "line": 5,
+        "version": 0,
+        "index": 20
+      },
+      {
+        "id": "0085e528-8889-4139-a63d-79614fd88271",
+        "line": 13,
+        "version": 0,
+        "index": 95
+      }
+    ]
+  }
+}
