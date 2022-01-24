@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-lapa = requests.get("http://vilanuvidusskola.blogspot.com/")
+lapa = requests.get("https://vvsprogramm.github.io/2021_debug/")
 print(lapa)
 #print(lapa.content)
 
