@@ -1,0 +1,2 @@
+#Divu tabulu savienošana
+
